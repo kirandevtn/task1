@@ -12,7 +12,12 @@
     <?php
         // Replace "InternName" with the actual name of the intern
         $internName = "Sushant Mishra";
+        $internName = "Kiran Yadav";
+	echo "<p>The intern's name is: $internName</p>";
+	$internName = "Neha Sharma";
+
         echo "<p>The intern's name is: $internName</p>";
+
     ?>
 
 </body>
