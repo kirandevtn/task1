@@ -17,7 +17,9 @@
 	$internName = "Neha Sharma";
 
         echo "<p>The intern's name is: $internName</p>";
+$internName = "Mo Laeeq";
 
+        echo "<p>The intern's name is: $internName</p>";
     ?>
 
 </body>
