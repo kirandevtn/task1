@@ -11,7 +11,7 @@
 
     <?php
         // Replace "InternName" with the actual name of the intern
-        $internName = "Kiran Yadav";
+        $internName = "Sushant Mishra";
         echo "<p>The intern's name is: $internName</p>";
     ?>
 
